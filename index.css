@@ -1,0 +1,8 @@
+*{
+    background-color: black;
+}
+
+#heading,.list{
+    text-align: center;
+    color: white;
+}
